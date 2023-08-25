@@ -6893,7 +6893,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 --------------------------------------------------------------------------------
 flutter_lints
-palette_generator
 plugin_platform_interface
 vector_graphics
 vector_graphics_codec
