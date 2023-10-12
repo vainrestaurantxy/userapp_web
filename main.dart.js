@@ -49834,7 +49834,7 @@ al0(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c="from create menu ",b=null,a="Leng
 A.hC(c+$.fR)
 A.hC(c+$.dq)
 s=$.fR
-if((s==="Veg"||s==="Non Veg"||s===""||s==="Drinks"||s==="Recommended"||s==="Bestseller"||s==="New")&&!$.dq)for(s=a2.gcC(a2),s=s.ga7(s),r=t.s,q=t.A;s.q();){p=s.gF(s)
+if((s==="Veg"||s==="Non Veg"||s===""||s==="Drinks"||s==="Recommended"||s==="Best Seller"||s==="New")&&!$.dq)for(s=a2.gcC(a2),s=s.ga7(s),r=t.s,q=t.A;s.q();){p=s.gF(s)
 o=$.Cf
 n=p.a
 o.m(0,n,new A.bk(b,q))
@@ -50239,9 +50239,9 @@ r=f.b
 s=d.a
 s.toString
 r.w=s
-p=A.a(["Veg","Non Veg","Drinks","Recommended","Bestseller","New"],t.s)
+p=A.a(["Veg","Non Veg","Drinks","Recommended","Best Seller","New"],t.s)
 s=t.N
-o=A.am(["Veg","assets/veg.svg","Non Veg","assets/non-veg.svg","Drinks","assets/drinks.svg","Recommended","assets/recommend.svg","Bestseller","assets/bestseller.svg","New","assets/new.svg"],s,s)
+o=A.am(["Veg","assets/veg.svg","Non Veg","assets/non-veg.svg","Drinks","assets/drinks.svg","Recommended","assets/recommend.svg","Best Seller","assets/bestseller.svg","New","assets/new.svg"],s,s)
 s=r.w.w
 s.toString
 new A.H(A.el(s,e)>>>0).k(0)
@@ -50329,7 +50329,7 @@ $.fR=""
 s.b=-1}break
 case 4:s=r.b
 if(!$.dq){$.dq=!0
-$.fR="Bestseller"
+$.fR="Best Seller"
 s.b=q}else{$.dq=!1
 $.fR=""
 s.b=-1}break
